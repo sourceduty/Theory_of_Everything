@@ -15,5 +15,7 @@ Finally, a Theory of Everything must ultimately be communicable—not only among
 #
 
 [Theory of Everything (ToE)](https://chatgpt.com/g/g-676c9cfe9d988191a6be9b2ca1c7cd59-theory-of-everything-toe)
+<br>
 [Quantum ToE](https://chatgpt.com/g/g-67fd3a2195a88191870b7eb283ebc0c2-quantum-toe)
+<br>
 [ToE Core](https://chatgpt.com/g/g-67fd3a2195a88191870b7eb283ebc0c2-quantum-toe)
