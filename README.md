@@ -6,10 +6,6 @@ The Unified Theory of Everything (ToE) Model stands out as a grand architectural
 
 In contrast, the ToE Core model adopts a minimalist and generative approach, building from a proposed "Unified Substrate" such as quantum foam, pre-geometry, or an informational network. Its emphasis on the emergence of spacetime through causal sets, loop networks, and spin foams marks it as an inherently bottom-up theory, in contrast to the more encyclopedic nature of the Unified ToE. It scores high on parsimony, conceptual focus, and clarity in its developmental logic—beginning with the genesis of space and matter and proceeding toward effective fields and cosmological structures. A notable strength is its treatment of gravity not as a fundamental force but as an emergent, thermodynamic phenomenon, pointing to deeper connections between information theory and spacetime curvature. The inclusion of a speculative layer addressing measurement, quantum decoherence, and even consciousness makes it both bold and controversial, offering fertile ground for novel hypothesis generation despite weaker empirical anchoring. Its main limitations lie in lack of explicit meta-principles, less integration of mathematical tools and dualities, and narrower compatibility with current high-energy data. The ToE Core model earns a 7.8/10, reflecting its strong foundational clarity and innovative scope, but with room for growth in breadth, empirical grounding, and formal unification.
 
-In sum, while both models aim to be ultimate unifying theories, they embody complementary virtues: the Unified ToE offers a comprehensive, richly interconnected network of theories and observational correspondences grounded in formal symmetry and holography; the ToE Core offers a lean, emergence-based structure with conceptual elegance and speculative ambition. The Unified ToE is currently more robust as a unifying scientific theory due to its systematic integration of established physics, whereas the ToE Core may function as a conceptual seed for future paradigms focused on emergence, simplicity, and observer-dependent physics. Their integration or dialectical tension could form the basis for a more refined and dynamically adaptive "theory-of-theories."
-
-#
-
 | Evaluation Criterion           | Unified ToE Model | ToE Core Model |
 |-------------------------------|-------------------|----------------|
 | Foundational Coherence        | 9.5               | 7.0            |
@@ -18,6 +14,8 @@ In sum, while both models aim to be ultimate unifying theories, they embody comp
 | Parsimony                     | 7.8               | 9.2            |
 | Novel Hypothesis Potential    | 9.0               | 8.8            |
 | **Overall Score (Average)**   | **9.2**           | **7.8**        |
+
+In sum, while both models aim to be ultimate unifying theories, they embody complementary virtues: the Unified ToE offers a comprehensive, richly interconnected network of theories and observational correspondences grounded in formal symmetry and holography; the ToE Core offers a lean, emergence-based structure with conceptual elegance and speculative ambition. The Unified ToE is currently more robust as a unifying scientific theory due to its systematic integration of established physics, whereas the ToE Core may function as a conceptual seed for future paradigms focused on emergence, simplicity, and observer-dependent physics. Their integration or dialectical tension could form the basis for a more refined and dynamically adaptive "theory-of-theories."
 
 #
 
