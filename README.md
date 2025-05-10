@@ -10,6 +10,17 @@ In sum, while both models aim to be ultimate unifying theories, they embody comp
 
 #
 
+| Evaluation Criterion           | Unified ToE Model | ToE Core Model |
+|-------------------------------|-------------------|----------------|
+| Foundational Coherence        | 9.5               | 7.0            |
+| Breadth & Integration         | 9.7               | 7.2            |
+| Empirical Anchoring           | 9.0               | 7.5            |
+| Parsimony                     | 7.8               | 9.2            |
+| Novel Hypothesis Potential    | 9.0               | 8.8            |
+| **Overall Score (Average)**   | **9.2**           | **7.8**        |
+
+#
+
 ![Everything is Concept](https://github.com/user-attachments/assets/9915ecb1-14be-4625-841d-3d9828bfdd9d)
 
 #
