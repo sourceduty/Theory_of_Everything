@@ -62,3 +62,5 @@ In high-level Theory of Everything (ToE) frameworks, combining numbered nodes wi
 [Unified ToE](https://chatgpt.com/g/g-681e929999f081918957a91a5f3102a3-unified-toe)
 <br>
 [Framework Evaluation](https://chatgpt.com/g/g-681ebe9b7db08191bf671555291e492a-framework-evaluation)
+<br>
+[Color-Coded Nodes](https://chatgpt.com/g/g-6821ddb057508191aca571dd9c997d59-color-coded-nodes)
