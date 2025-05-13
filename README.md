@@ -53,6 +53,25 @@ In high-level Theory of Everything (ToE) frameworks, combining [color-coded node
 
 #
 
+| Rank | Scientific Field            | Key Challenges and Unknowns                                      | Indicators of Incompleteness                                 | Completeness Rating (1–10) |
+|------|-----------------------------|------------------------------------------------------------------|--------------------------------------------------------------|----------------------------|
+| 1    | Consciousness Studies       | Nature of subjective experience, neural correlates               | No unifying theory, experimental limitations                 | 2                          |
+| 2    | Quantum Gravity             | Integration of general relativity and quantum mechanics          | Lack of empirical evidence, unresolved theoretical models    | 2                          |
+| 3    | Origins of Life             | Pathways from chemistry to biology, role of RNA world            | Sparse fossil/chemical records, many competing hypotheses    | 3                          |
+| 4    | Climate Science             | Precise modeling of feedback loops, tipping points               | High complexity, long-term prediction uncertainty            | 5                          |
+| 5    | Dark Matter & Dark Energy   | Composition, interaction, and role in cosmic structure           | Only indirect detection, many theoretical candidates         | 3                          |
+| 6    | Neuroscience                | Mechanisms of memory, consciousness, and cognition               | Fragmented models, limited system-level integration          | 4                          |
+| 7    | Cancer Biology              | Tumor microenvironment, metastasis, resistance mechanisms        | Heterogeneous disease profiles, incomplete treatment models  | 4                          |
+| 8    | Epigenetics                 | Long-term regulation mechanisms, inheritance patterns            | Complex interactions, unpredictable outcomes                 | 4                          |
+| 9    | Evolutionary Developmental Biology | Genetic basis of morphological innovation                | Limited fossil-genome correlation, complexity of gene regulation | 4                      |
+| 10   | Artificial General Intelligence (AGI) | Building machines with human-level reasoning           | No working models, ethical and control issues                | 2                          |
+
+Scientific progress and completeness are evaluated using [Science Complete](https://chatgpt.com/g/g-6822c4d2bff88191bd6867c1df839888-science-complete) through a structured and analytical lens that considers multiple dimensions of knowledge advancement in a given field. Progress is primarily gauged by the frequency and impact of significant discoveries, such as the unveiling of new phenomena, the development of innovative experimental techniques, or the synthesis of previously disconnected ideas into cohesive theoretical models. A field demonstrating high progress typically exhibits exponential growth in the volume of peer-reviewed research, cross-disciplinary integration, and the emergence of technologies with transformative practical applications. These factors are used as proxy indicators for how rapidly a scientific discipline is expanding its explanatory and predictive power. In this custom GPT, the evaluation also involves identifying key milestones—such as the formulation of predictive models, unification of diverse observations under comprehensive frameworks, and successful application of theories to solve real-world problems—that mark critical junctures in a field’s development.
+
+Completeness, on the other hand, is measured by how thoroughly the fundamental aspects of a domain have been mapped, tested, and understood. A scientific field is considered more complete when it can reliably produce predictive outcomes using well-established principles without excessive dependence on empirical tuning or ad hoc hypotheses. Within this framework, completeness is assessed by examining the consistency and robustness of foundational theories, the extent to which experimental evidence supports them across different conditions, and the availability of comprehensive models that leave little room for unresolved questions or alternative explanations. The presence of a mature, self-consistent body of knowledge—capable of generating precise, testable predictions and being resistant to paradigm-shifting anomalies—is a hallmark of a more complete science. This custom GPT leverages such criteria to compare and contrast the relative maturity of scientific domains, ultimately helping users identify which fields are nearing theoretical closure and which remain in exploratory or developmental phases.
+
+#
+
 [Theory of Everything (ToE)](https://chatgpt.com/g/g-676c9cfe9d988191a6be9b2ca1c7cd59-theory-of-everything-toe)
 <br>
 [Quantum ToE](https://chatgpt.com/g/g-67fd3a2195a88191870b7eb283ebc0c2-quantum-toe)
@@ -62,5 +81,3 @@ In high-level Theory of Everything (ToE) frameworks, combining [color-coded node
 [Unified ToE](https://chatgpt.com/g/g-681e929999f081918957a91a5f3102a3-unified-toe)
 <br>
 [Framework Evaluation](https://chatgpt.com/g/g-681ebe9b7db08191bf671555291e492a-framework-evaluation)
-<br>
-[Science Complete](https://chatgpt.com/g/g-6822c4d2bff88191bd6867c1df839888-science-complete)
