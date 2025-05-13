@@ -1,0 +1,51 @@
+Rank,Scientific Field,Key Challenges and Unknowns,Indicators of Incompleteness,Completeness Rating (1–10)
+0,Consciousness Studies,"Nature of subjective experience, neural correlates","No unifying theory, experimental limitations",2
+1,Quantum Gravity,Integration of general relativity and quantum mechanics,"Lack of empirical evidence, unresolved theoretical models",2
+2,Origins of Life,"Pathways from chemistry to biology, role of RNA world","Sparse fossil/chemical records, many competing hypotheses",3
+3,Climate Science,"Precise modeling of feedback loops, tipping points","High complexity, long-term prediction uncertainty",5
+4,Dark Matter & Dark Energy,"Composition, interaction, and role in cosmic structure","Only indirect detection, many theoretical candidates",3
+5,Neuroscience,"Mechanisms of memory, consciousness, and cognition","Fragmented models, limited system-level integration",4
+6,Cancer Biology,"Tumor microenvironment, metastasis, resistance mechanisms","Heterogeneous disease profiles, incomplete treatment models",4
+7,Epigenetics,"Long-term regulation mechanisms, inheritance patterns","Complex interactions, unpredictable outcomes",4
+8,Evolutionary Developmental Biology,Genetic basis of morphological innovation,"Limited fossil-genome correlation, complexity of gene regulation",4
+9,Artificial General Intelligence (AGI),Building machines with human-level reasoning,"No working models, ethical and control issues",2
+10,Nutritional Science,Complex diet-health interactions,"Confounding variables, limited long-term studies",5
+11,Sleep Science,Functions and mechanisms of sleep,Incomplete understanding of sleep regulation,4
+12,Microbiome Research,Interactions with host biology,"Highly individualized, causality unclear",4
+13,Planetary Science,Planet formation and evolution,"Data gaps, especially for exoplanets",5
+14,Synthetic Biology,Designing organisms with new functions,"Ethical concerns, limited predictive frameworks",3
+15,Astrobiology,Possibility of life beyond Earth,"Lack of direct evidence, broad hypothesis space",2
+16,Behavioral Economics,Integration of psychology and economics,"Model variability, replicability issues",5
+17,Linguistics,Origin and evolution of language,"Sparse empirical data, competing theories",5
+18,Cognitive Science,Interdisciplinary study of mind and intelligence,"Fragmented theories, experimental complexity",4
+19,Economics,Modeling large-scale human behavior,"High uncertainty, limited predictability",5
+20,Sociology,Complexity of social systems,"High context dependence, theory fragmentation",5
+21,Anthropology,Cultural and biological human evolution,"Limited archaeological data, interpretative uncertainty",4
+22,Psychiatry,Understanding mental disorders,"Lack of biomarkers, treatment resistance",4
+23,Genomics,Functional interpretation of genomes,"Non-coding DNA roles unclear, variant interpretation",5
+24,Proteomics,Full mapping of proteins and functions,"High complexity, limited functional data",4
+25,Systems Biology,Modeling complex biological systems,"High computational demands, validation challenges",4
+26,Ecology,Ecosystem interactions and stability,"Complex feedbacks, climate influences",5
+27,Geophysics,Earth's internal processes,Indirect measurement challenges,5
+28,Oceanography,Ocean circulation and ecosystem dynamics,"Sparse long-term data, complex feedbacks",5
+29,Immunology,Immune system dynamics and regulation,Complexity and variability,5
+30,Materials Science,Design of new materials,Microscale behavior prediction,6
+31,Biophysics,Physical principles of biological systems,Complex systems modeling,5
+32,Developmental Biology,Mechanisms of organismal development,Gene regulation complexity,5
+33,Robotics,Autonomous function and human interaction,Limited adaptability and reasoning,4
+34,Aerobiology,Airborne microorganisms and effects,Sampling and tracking challenges,4
+35,Computational Social Science,Data-driven models of society,"Ethical limits, bias in data",4
+36,Human Genetics,Trait inheritance and disease links,Polygenic risk complexity,5
+37,Biogeochemistry,Chemical cycles in ecosystems,Multi-factor interactions,5
+38,Paleoclimatology,Historical climate reconstruction,Sparse proxy data,4
+39,Biotechnology,Genetic engineering applications,Ethical/regulatory issues,5
+40,Tissue Engineering,Artificial organ development,"Vascularization, integration",3
+41,Renewable Energy Science,Storage and efficiency improvements,"Intermittency, material limits",5
+42,Forensic Science,Evidence interpretation,"Error rates, bias",5
+43,Space Weather,Solar-terrestrial interactions,Prediction challenges,4
+44,Computational Neuroscience,Modeling brain functions,"High complexity, data limits",4
+45,Cryobiology,Biological response to low temperatures,Preservation issues,3
+46,Environmental Toxicology,Chemical exposure effects,Dose-response uncertainties,4
+47,Astrophysics,Cosmic structure and dynamics,"Dark phenomena, early universe",5
+48,Pharmacogenomics,Drug response based on genetics,Population variability,5
+49,Quantum Biology,Quantum effects in biology,"Controversial, limited empirical evidence",3
