@@ -80,7 +80,7 @@ Completeness, on the other hand, is measured by how thoroughly the fundamental a
 <br>
 [Quantum ToE](https://chatgpt.com/g/g-67fd3a2195a88191870b7eb283ebc0c2-quantum-toe)
 <br>
-[ToE Core](https://chatgpt.com/g/g-67fd3a2195a88191870b7eb283ebc0c2-quantum-toe)
+[ToE Core](https://chatgpt.com/g/g-67ba34331820819194386867067c2dd3-toe-core)
 <br>
 [Unified ToE](https://chatgpt.com/g/g-681e929999f081918957a91a5f3102a3-unified-toe)
 <br>
